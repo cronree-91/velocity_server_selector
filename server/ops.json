@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "a65dc02d-9eb4-456f-afad-a4d4723e12cc",
+    "name": "e_cron",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "067c7d6c-482f-430e-8a04-971076b8ce2f",
+    "name": "cm_p",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

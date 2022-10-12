@@ -1,0 +1,5 @@
+name: SamplePlugin
+version: '0.1'
+main: jp.cron.sample.Plugin
+api-version: 1.18
+load: POSTWORLD
