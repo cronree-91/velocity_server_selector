@@ -1,3 +1,5 @@
-maps:
-  map1:
-    world: "map1"
+servers:
+  - title: "Server1" # 表示名
+    name: "srv1" # velocity.tomlで定義した名前
+  - title: "Server2" # 表示名
+    name: "srv2" # velocity.tomlで定義した名前

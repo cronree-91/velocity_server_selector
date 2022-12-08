@@ -1,5 +1,8 @@
-name: SamplePlugin
+name: ServerSelector
 version: '0.1'
-main: jp.cron.sample.Plugin
+main: jp.cron.selector.bukkit.BukkitPlugin
 api-version: 1.18
 load: POSTWORLD
+commands:
+  server:
+    description: "サーバーを選択します"
